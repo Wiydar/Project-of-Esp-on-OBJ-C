@@ -52,7 +52,7 @@ bulletforcenewesptest_LIBRARIES += substrate
 bulletforcenewesptest_FRAMEWORKS = $(PROJ_COMMON_FRAMEWORKS)
 # GO_EASY_ON_ME = 1
 
-include $(THEOS_MAKE_PATH)/tweak.mk
+include $(THEOS_MAKE_PATH)/tweak.xm
 
 internal-package-check::
 	@chmod 777 versionCheck.sh # Give permission to script 	
