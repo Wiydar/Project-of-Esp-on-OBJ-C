@@ -1,0 +1,11 @@
+Package: s
+Name:  Mod Menu
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description:  Mod Menu by a!
+Maintainer: a
+Author: a
+Section: Tweaks
+Homepage: 
+Version: 1.0
+Installed-Size: 672
